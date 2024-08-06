@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ede6805.css",
-    "main.js": "/static/js/main.2d6e7e91.js",
+    "main.css": "/static/css/main.a6872fed.css",
+    "main.js": "/static/js/main.469aa83c.js",
     "static/js/453.9c83866a.chunk.js": "/static/js/453.9c83866a.chunk.js",
     "static/media/background.png": "/static/media/background.197e176bde0341134263.png",
+    "static/media/map_bg.png": "/static/media/map_bg.6aeba7ca68a98ec45419.png",
+    "static/media/frame2.png": "/static/media/frame2.4b3493bfc911ffd03275.png",
+    "static/media/sprite-6.png": "/static/media/sprite-6.be80190ae57d434c0cca.png",
     "static/media/frame.png": "/static/media/frame.ab60bd952b914cc1958a.png",
-    "static/media/badge_bg.png": "/static/media/badge_bg.17d7161c377e1596d99e.png",
+    "static/media/map1.png": "/static/media/map1.6091ac4732ae99354d02.png",
+    "static/media/slot_active.png": "/static/media/slot_active.e4fe7c8026dc18383e27.png",
+    "static/media/slot_unlock.png": "/static/media/slot_unlock.1f2e93497e327bb4706f.png",
     "static/media/sprite-3.png": "/static/media/sprite-3.2e3894d6c90b2450ad31.png",
     "static/media/sprite_item_bg.png": "/static/media/sprite_item_bg.5d04fa73b4801b5e63e1.png",
     "static/media/sprite-1.png": "/static/media/sprite-1.ac189f5de43a42ad2ed3.png",
     "static/media/sprite_item2_bg.png": "/static/media/sprite_item2_bg.6bc52602c924f8450b46.png",
+    "static/media/lucky.png": "/static/media/lucky.f9b4775d91358608be3a.png",
+    "static/media/number1.png": "/static/media/number1.ea495e6613dfa416a876.png",
     "index.html": "/index.html",
-    "main.7ede6805.css.map": "/static/css/main.7ede6805.css.map",
-    "main.2d6e7e91.js.map": "/static/js/main.2d6e7e91.js.map",
+    "main.a6872fed.css.map": "/static/css/main.a6872fed.css.map",
+    "main.469aa83c.js.map": "/static/js/main.469aa83c.js.map",
     "453.9c83866a.chunk.js.map": "/static/js/453.9c83866a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ede6805.css",
-    "static/js/main.2d6e7e91.js"
+    "static/css/main.a6872fed.css",
+    "static/js/main.469aa83c.js"
   ]
 }
