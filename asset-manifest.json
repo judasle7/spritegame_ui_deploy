@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.806dba1d.css",
-    "main.js": "/static/js/main.8f6f8115.js",
+    "main.css": "/static/css/main.d3368115.css",
+    "main.js": "/static/js/main.1ad51862.js",
     "static/js/453.9c83866a.chunk.js": "/static/js/453.9c83866a.chunk.js",
+    "static/media/openBoxGift.gif": "/static/media/openBoxGift.8e6a51b91265d8cb33be.gif",
     "static/media/background.png": "/static/media/background.197e176bde0341134263.png",
     "static/media/reddik.gif": "/static/media/reddik.5e4b8bbef5cfa1439a75.gif",
     "static/media/cyclopsie.gif": "/static/media/cyclopsie.c12cd1bf4593f1d1d991.gif",
@@ -16,23 +17,35 @@
     "static/media/mushie.gif": "/static/media/mushie.6d31fd5f720025f2ddd8.gif",
     "static/media/box.png": "/static/media/box.d490f27b60168f713936.png",
     "static/media/map_bg.png": "/static/media/map_bg.c5d45e6aae5e098e7ef6.png",
+    "static/media/metal.png": "/static/media/metal.2cec8b7ae89f47554d47.png",
+    "static/media/earth.png": "/static/media/earth.ff61c9ee6d2031d7346e.png",
+    "static/media/fire.png": "/static/media/fire.115b0a7cb29dd04a3684.png",
+    "static/media/wood.png": "/static/media/wood.b220093e65dddacfbb90.png",
+    "static/media/epic.png": "/static/media/epic.179191f88b3e96b7cfa0.png",
+    "static/media/water.png": "/static/media/water.6ad435a40d117f52e22e.png",
+    "static/media/rare.png": "/static/media/rare.b93a31274054a92b89b0.png",
     "static/media/notify.png": "/static/media/notify.8b0944ff6679db559848.png",
     "static/media/frame2.png": "/static/media/frame2.031433323d3d53480f89.png",
     "static/media/frame-3.png": "/static/media/frame-3.e225bfe2c6902d421149.png",
+    "static/media/common.png": "/static/media/common.6b1785c2cc9e30baecb4.png",
     "static/media/logo.png": "/static/media/logo.07676e3dc1d2454346de.png",
+    "static/media/uncommon.png": "/static/media/uncommon.08805a03a5ceb5b0a22a.png",
+    "static/media/rare_no_bg.png": "/static/media/rare_no_bg.c013b4ac4d52d27734c1.png",
     "static/media/frame.png": "/static/media/frame.a07d7a5496528f7be3b1.png",
     "static/media/invite-friends.png": "/static/media/invite-friends.51a126c36a101b615b62.png",
     "static/media/map1.png": "/static/media/map1.f69e687fa3c1c2234a79.png",
+    "static/media/common_no_bg.png": "/static/media/common_no_bg.7b8cbff0c9450c6d361b.png",
+    "static/media/uncommon_no_bg.png": "/static/media/uncommon_no_bg.b1665a5c1d35f1ca4c52.png",
     "static/media/button-swap.png": "/static/media/button-swap.a901823275fd6dad3511.png",
     "static/media/menu_newquest.png": "/static/media/menu_newquest.64d8a2c3809abeb2b998.png",
     "static/media/slot_active.png": "/static/media/slot_active.865cc82ec30bc2e21a45.png",
     "index.html": "/index.html",
-    "main.806dba1d.css.map": "/static/css/main.806dba1d.css.map",
-    "main.8f6f8115.js.map": "/static/js/main.8f6f8115.js.map",
+    "main.d3368115.css.map": "/static/css/main.d3368115.css.map",
+    "main.1ad51862.js.map": "/static/js/main.1ad51862.js.map",
     "453.9c83866a.chunk.js.map": "/static/js/453.9c83866a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.806dba1d.css",
-    "static/js/main.8f6f8115.js"
+    "static/css/main.d3368115.css",
+    "static/js/main.1ad51862.js"
   ]
 }
