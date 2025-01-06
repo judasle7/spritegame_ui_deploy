@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a6c9a88b.css",
-    "main.js": "/static/js/main.3ec76523.js",
+    "main.css": "/static/css/main.13626b9a.css",
+    "main.js": "/static/js/main.5f0d3ede.js",
     "static/js/453.9c83866a.chunk.js": "/static/js/453.9c83866a.chunk.js",
     "static/media/openBoxGift.gif": "/static/media/openBoxGift.8e6a51b91265d8cb33be.gif",
     "static/media/background.png": "/static/media/background.197e176bde0341134263.png",
@@ -18,6 +18,8 @@
     "static/media/claim.png": "/static/media/claim.512201dbe3c99264ef9e.png",
     "static/media/mushie.gif": "/static/media/mushie.6d31fd5f720025f2ddd8.gif",
     "static/media/rank_six.png": "/static/media/rank_six.9a425b878735aa965117.png",
+    "static/media/menu_chart_active.png": "/static/media/menu_chart_active.f1ce409905344a0d99ca.png",
+    "static/media/menu_chart.png": "/static/media/menu_chart.88c499d5845e94c18165.png",
     "static/media/box.png": "/static/media/box.d490f27b60168f713936.png",
     "static/media/rank_five.png": "/static/media/rank_five.4a3113e401943ca8e33f.png",
     "static/media/map_bg.png": "/static/media/map_bg.c5d45e6aae5e098e7ef6.png",
@@ -49,12 +51,12 @@
     "static/media/menu_newquest.png": "/static/media/menu_newquest.64d8a2c3809abeb2b998.png",
     "static/media/slot_active.png": "/static/media/slot_active.865cc82ec30bc2e21a45.png",
     "index.html": "/index.html",
-    "main.a6c9a88b.css.map": "/static/css/main.a6c9a88b.css.map",
-    "main.3ec76523.js.map": "/static/js/main.3ec76523.js.map",
+    "main.13626b9a.css.map": "/static/css/main.13626b9a.css.map",
+    "main.5f0d3ede.js.map": "/static/js/main.5f0d3ede.js.map",
     "453.9c83866a.chunk.js.map": "/static/js/453.9c83866a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6c9a88b.css",
-    "static/js/main.3ec76523.js"
+    "static/css/main.13626b9a.css",
+    "static/js/main.5f0d3ede.js"
   ]
 }
