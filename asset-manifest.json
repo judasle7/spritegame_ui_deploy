@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.f4d23217.css",
-    "main.js": "/static/js/main.d6a9e0b2.js",
+    "main.css": "/static/css/main.d2bd09b9.css",
+    "main.js": "/static/js/main.9a54418b.js",
     "static/js/453.9c83866a.chunk.js": "/static/js/453.9c83866a.chunk.js",
     "static/media/box_item.gif": "/static/media/box_item.79c93b637b92933b5764.gif",
     "static/media/box_expensive.gif": "/static/media/box_expensive.8e0c5f862e423837e7ae.gif",
     "static/media/openBoxGift.gif": "/static/media/openBoxGift.8e6a51b91265d8cb33be.gif",
+    "static/media/frostbeak.gif": "/static/media/frostbeak.d9123173348d2d528c5f.gif",
+    "static/media/golith.gif": "/static/media/golith.19c3a3729a4e0ca77923.gif",
     "static/media/magic_no_bg.png": "/static/media/magic_no_bg.be1e25cf0021e05c69ac.png",
     "static/media/water_no_bg.png": "/static/media/water_no_bg.4eaddc3c74bf36026709.png",
     "static/media/fire_no_bg.png": "/static/media/fire_no_bg.66425abc779c31146ee8.png",
@@ -13,20 +15,18 @@
     "static/media/thunder_no_bg.png": "/static/media/thunder_no_bg.d60020e810ec75bd0893.png",
     "static/media/capworm.gif": "/static/media/capworm.706cb40c7659e348c19b.gif",
     "static/media/background.png": "/static/media/background.197e176bde0341134263.png",
+    "static/media/goldwing.gif": "/static/media/goldwing.67d6d8c834986f10fb95.gif",
     "static/media/emerclaw.gif": "/static/media/emerclaw.ef31b451cacddf80c30b.gif",
     "static/media/reddik.gif": "/static/media/reddik.5e4b8bbef5cfa1439a75.gif",
     "static/media/cyclopsie.gif": "/static/media/cyclopsie.c12cd1bf4593f1d1d991.gif",
     "static/media/blobbo.gif": "/static/media/blobbo.99e0674b09f89f3d3b5c.gif",
     "static/media/slimy.gif": "/static/media/slimy.e5369d445b0dd5f3fa33.gif",
     "static/media/gaius.gif": "/static/media/gaius.30e7523108915a3509bb.gif",
-    "static/media/golith.gif": "/static/media/golith.d45bac38c7e8490c1665.gif",
     "static/media/trilux.gif": "/static/media/trilux.6840087af8e408e58f26.gif",
     "static/media/purplo.gif": "/static/media/purplo.6ce3567fb58542693c8d.gif",
     "static/media/tuskhorn.gif": "/static/media/tuskhorn.6a611a6d761dae82ca8e.gif",
     "static/media/whispy.gif": "/static/media/whispy.4e684634b42f195ea0b9.gif",
-    "static/media/frostbeak.gif": "/static/media/frostbeak.d9123173348d2d528c5f.gif",
     "static/media/echo.gif": "/static/media/echo.22a588fb22cf127ec486.gif",
-    "static/media/goldwing.gif": "/static/media/goldwing.966805aec0168dbea2fc.gif",
     "static/media/claim.png": "/static/media/claim.512201dbe3c99264ef9e.png",
     "static/media/mushie.gif": "/static/media/mushie.6d31fd5f720025f2ddd8.gif",
     "static/media/rank_six.png": "/static/media/rank_six.9a425b878735aa965117.png",
@@ -60,12 +60,12 @@
     "static/media/menu_newquest.png": "/static/media/menu_newquest.64d8a2c3809abeb2b998.png",
     "static/media/slot_active.png": "/static/media/slot_active.865cc82ec30bc2e21a45.png",
     "index.html": "/index.html",
-    "main.f4d23217.css.map": "/static/css/main.f4d23217.css.map",
-    "main.d6a9e0b2.js.map": "/static/js/main.d6a9e0b2.js.map",
+    "main.d2bd09b9.css.map": "/static/css/main.d2bd09b9.css.map",
+    "main.9a54418b.js.map": "/static/js/main.9a54418b.js.map",
     "453.9c83866a.chunk.js.map": "/static/js/453.9c83866a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4d23217.css",
-    "static/js/main.d6a9e0b2.js"
+    "static/css/main.d2bd09b9.css",
+    "static/js/main.9a54418b.js"
   ]
 }
