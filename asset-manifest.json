@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.87f26290.css",
-    "main.js": "/static/js/main.8b816228.js",
+    "main.css": "/static/css/main.3d6ed611.css",
+    "main.js": "/static/js/main.4fed6c4d.js",
     "static/js/453.9c83866a.chunk.js": "/static/js/453.9c83866a.chunk.js",
     "static/media/box_item.gif": "/static/media/box_item.79c93b637b92933b5764.gif",
     "static/media/box_expensive.gif": "/static/media/box_expensive.8e0c5f862e423837e7ae.gif",
@@ -33,6 +33,7 @@
     "static/media/menu_chart_active.png": "/static/media/menu_chart_active.f1ce409905344a0d99ca.png",
     "static/media/menu_chart.png": "/static/media/menu_chart.88c499d5845e94c18165.png",
     "static/media/box.png": "/static/media/box.d490f27b60168f713936.png",
+    "static/media/history-icon.png": "/static/media/history-icon.720ad18bae73b755cfba.png",
     "static/media/rank_five.png": "/static/media/rank_five.4a3113e401943ca8e33f.png",
     "static/media/map_bg.png": "/static/media/map_bg.c5d45e6aae5e098e7ef6.png",
     "static/media/epic_no_bg.png": "/static/media/epic_no_bg.bf6b9473d9ce35d268e3.png",
@@ -60,12 +61,12 @@
     "static/media/menu_newquest.png": "/static/media/menu_newquest.64d8a2c3809abeb2b998.png",
     "static/media/slot_active.png": "/static/media/slot_active.865cc82ec30bc2e21a45.png",
     "index.html": "/index.html",
-    "main.87f26290.css.map": "/static/css/main.87f26290.css.map",
-    "main.8b816228.js.map": "/static/js/main.8b816228.js.map",
+    "main.3d6ed611.css.map": "/static/css/main.3d6ed611.css.map",
+    "main.4fed6c4d.js.map": "/static/js/main.4fed6c4d.js.map",
     "453.9c83866a.chunk.js.map": "/static/js/453.9c83866a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87f26290.css",
-    "static/js/main.8b816228.js"
+    "static/css/main.3d6ed611.css",
+    "static/js/main.4fed6c4d.js"
   ]
 }
